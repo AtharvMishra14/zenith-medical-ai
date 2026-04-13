@@ -1,0 +1,17 @@
+# Core Framework and UI
+langchain
+gradio
+
+# Vector Database (ChromaDB)
+langchain-chroma
+
+# Embeddings (Runs locally on AWS to save API costs)
+langchain-huggingface
+sentence-transformers
+
+# LLM Providers (Hybrid Switch)
+langchain-ollama
+langchain-groq
+
+# Community Utilities
+langchain-community

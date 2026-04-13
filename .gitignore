@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# AWS & Security (The most important part)
+*.pem
+zenith_key.pem
+
+# Vector Databases & Binary Data
+chroma_db*/
+*.bin
+*.pickle
+*.db
+*.sqlite3
+
+# Large Data Files (Keep these on your laptop)
+*.csv
